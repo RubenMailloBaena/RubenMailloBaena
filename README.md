@@ -3,7 +3,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rubén maíllo baena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rubén maíllo baena" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/rubén maíllo baena](https://www.linkedin.com/in/rub%C3%A9n-ma%C3%ADllo-baena-7aa615349/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rubén maíllo baena" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
